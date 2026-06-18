@@ -7,6 +7,6 @@
 
 <div align="center">
   
-  [![snake gif]](https://github.com/Joaopedrocarvalho12/Joaopedrocarvalho12/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Joaopedrocarvalho12/Joaopedrocarvalho12/blob/output/github-snake-dark.svg)
 
 </div>
