@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaopedroCarvalho12&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joaopedrocarvalho12&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="40%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joaopedrocarvalho12&theme=aura&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedrocarvalho12&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" /> </br>
+</div>
+
 
 
 ### Languages and Tools
