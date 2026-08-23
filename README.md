@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joaopedrocarvalho12&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="40%" /> </br>
